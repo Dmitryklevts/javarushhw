@@ -1,33 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="061fbbc6-ebf9-4c5a-84cd-f657f21ea093" name="Changes" comment="" />
+    <list default="true" id="061fbbc6-ebf9-4c5a-84cd-f657f21ea093" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/Block1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/DinoProfileGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Exersise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block2/Block2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/Block3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Exersise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block3/src/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block4/Block4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block4/src/ConditionLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/Block4/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LJWP/LJWP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level3/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level3/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/lesson6/lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/lesson6/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/level4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/src/Fuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/level2/src/Fuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/level2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level2/src/MethodCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/level2/src/MethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/level3/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2fuZ1xbpm2BZRrHfmvCyWO2PP7k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/dmitryklevts/IdeaProjects/JavaHomework/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DinoProfileGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersise8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodCall.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Project.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dmitryklevts/IdeaProjects/TaskManager-main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dmitryklevts/IdeaProjects/JavaHomework/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmitryklevts\IdeaProjects\JavaHomework\level3\src" />
+      <recent name="C:\Users\dmitryklevts\IdeaProjects\JavaHomework\level2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmitryklevts\IdeaProjects\JavaHomework\LJWP\Block3\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Exersise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exersise5" />
+      <module name="Block3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exersise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exersise6" />
+      <module name="Block3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Block4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project" />
+      <module name="Block3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
+      <module name="Block4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.Project" />
+        <item itemvalue="Application.Exersise6" />
+        <item itemvalue="Application.Exersise5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

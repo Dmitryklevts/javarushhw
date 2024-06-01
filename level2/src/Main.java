@@ -15,8 +15,8 @@ public class Main {
         */
 
         //Напиши программу, которая выводит на экран надпись: «Мне так плохо! Хочу, чтобы все умерли!».
-        Fuck dieAll = new Fuck();
-        System.out.println(dieAll.dieAll());
+
+        System.out.println(Fuck.dieAll());
 
     }
 

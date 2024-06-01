@@ -1,7 +1,9 @@
 public class Fuck {
 
-        static String dieAll() {
-            return "Мне так плохо! Хочу, чтобы все умерли!";
-        }
+    private Fuck() {
     }
+    public static String dieAll() {
+        return "Мне так плохо! Хочу, чтобы все умерли!";
+    }
+}
 

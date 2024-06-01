@@ -5,13 +5,13 @@
 public class MethodCall {
     public static void main(String[] args) {
         int a = 10, b = 8, j = 20, k = 40;
-        int m = min(a, b);
-        int m2 = max(a, b);
-        int m3 = minOutOfThree(a, b, j);
+//        int m = min(a, b);
+//        int m2 = max(a, b);
+//        int m3 = minOutOfThree(a, b, j);
         int m4 = minOutOfFour(a, b, j, k);
-        System.out.println(STR."Minimum is \{m}");
-        System.out.println(STR."Maximum is \{m2}");
-        System.out.println(STR."Minimum out of three is \{m3}");
+//        System.out.println(STR."Minimum is \{m}");
+//        System.out.println(STR."Maximum is \{m2}");
+//        System.out.println(STR."Minimum out of three is \{m3}");
         System.out.println(STR."Minimum out of four is \{m4}");
         threeStrings("I hate people");
         //threeStringsInOneRow("I hate people in one row");
@@ -31,41 +31,27 @@ public class MethodCall {
 
     //максимум 2х чисел
     public static int max(int c, int d) {
-        int m2;
         if (c < d)
-            m2 = d;
+            return d;
         else
-            m2 = c;
-        return m2;
+            return c;
     }
 
     //минимум трех чисел
     public static int minOutOfThree(int c, int d, int e) {
-        int m2;
-        if (c < d && c < e) {
-            m2 = c;
-        } else if (c < d && c > e) {
-            m2 = e;
-        } else
-            m2 = d;
-
-        return m2;
+        return min(min(c, d), e);
     }
 
     // Минимум четырёх чисел
     public static int minOutOfFour(int c, int d, int e, int f) {
-        int m2;
-        if (min(c,d) < min(e,f)) {
-            m2 = min(c, d);
-        }
-            else
-                m2 = min(e,f);
-
-        return m2;
+        return min(
+                min(c, d),
+                min(e, f)
+        );
     }
     //Написать функцию, которая выводит переданную строку на экран три раза, каждый раз с новой строки.
 
-    public static void threeStrings(String simpleString){
+    public static void threeStrings(String simpleString) {
         System.out.println(simpleString);
         System.out.println(simpleString);
         System.out.println(simpleString);
